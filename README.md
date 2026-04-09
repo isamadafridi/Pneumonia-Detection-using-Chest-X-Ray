@@ -53,8 +53,6 @@ The model is trained on the **Pneumonia-MNIST dataset**, making it lightweight a
 - Achieved strong classification performance on test data  
 - Efficient and lightweight model suitable for real-world applications  
 
-*(You can add exact accuracy here for more impact)*
-
 ---
 
 ## ▶️ Run the Project
